@@ -1,3 +1,4 @@
+/* A simple DFS to find and store the path between two nodes in a two dimensional array */
 #include <stdio.h>
 #define N 5
 #define M 5
