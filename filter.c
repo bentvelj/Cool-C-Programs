@@ -1,7 +1,8 @@
+/* A program to perform image convolutions on a .BMP image file */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-/* I/O CODE BASED OFF TUTORIAL */
 
 typedef struct pixel {
     unsigned char r, g, b;
