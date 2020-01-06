@@ -1,3 +1,5 @@
+/* A program used to create an expression tree */
+
 #include "expr.h"
 #include <stdio.h>
 #include <stdlib.h>
