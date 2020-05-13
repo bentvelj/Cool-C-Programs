@@ -1,5 +1,5 @@
 /* Program to add and subtract integers of arbitrary length */
-
+/* Jared Bentvelsen */
 #include <stdio.h>
 #include <string.h>
 #define N 80
